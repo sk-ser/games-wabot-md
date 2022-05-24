@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281390658325'],
-  ['6282256115584'],
-  ['6281319944687', 'BG', true]
+  ['6282160268332', 'Ini Namanya Davitt' true],
+  ['0'],
+  ['6282128475388', 'Botnya banh', false]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+// ] // Put your number here
+global.mods = ['6282160268332'] // Want some help?
+global.prems = ['6282160268332,'6282128475388'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
