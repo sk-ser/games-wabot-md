@@ -1,7 +1,7 @@
 {
-    "name": "games-wabot",
-    "version": "0.9.86",
-    "description": "Customizable WhatsApp Bot",
+    "name": "One Botz",
+    "version": "MD 0.182.1",
+    "description": "Simple WhatsApp Bot With Libary Baileys Multi Device",
     "main": "index.js",
     "type": "module",
     "directories": {
